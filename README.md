@@ -12,6 +12,7 @@ As a part of my Extended Essay, I chose to study the RSA algorithm and outline n
 The program gets the following input values: the length of keys that are randomly generated and the text to encrypt into a ciphertext. Additionally, the times spent to complete the tasks are printed at the end of the execution.
 
 <img src="https://blog.cloudflare.com/content/images/2022/02/image4-12.png" style="width:60%">
+
 > [!IMPORTANT]
 > Command to Execute
 > ```
